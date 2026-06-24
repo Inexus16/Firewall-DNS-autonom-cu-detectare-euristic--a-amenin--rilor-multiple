@@ -1,0 +1,4 @@
+google.com A
+example.com A
+facebook.com A
+youtube.com A

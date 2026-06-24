@@ -1,0 +1,4 @@
+malware.test.com
+phishing.example.org
+evil.net
+malware.test

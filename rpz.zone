@@ -1,0 +1,11 @@
+$TTL 300
+@ SOA localhost. admin.localhost. (1 3600 600 86400 300)
+  NS localhost.
+
+malware.test.com CNAME .
+phishing.example.org CNAME .
+evil.net CNAME .
+malware.test CNAME .
+i62e2b4mfy.com. CNAME .
+jf71qh5v14.com. CNAME .
+liputan6.com. CNAME .
